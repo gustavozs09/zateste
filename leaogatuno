@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+       <head> 
+               <P>Este texto aparece como o titulo da pagina</p>
+       </head>
+       <body> 
+               <h3> agora vamos inserir uma imagem da turma </h3>
+               <h2> <P> na linha de codigo consta as tags para inserir imagem e definir a dimensao da
+                         mesma (largura e altura )</p></h2>
+                         
+               <P><center><img src="tigre.jpg" width=350 height=350></p></center>
+               
+               https://raphaevanges.medium.com/%C3%A9-fascinante-a-rela%C3%A7%C3%A3o-de-amor-que-o-brasileiro-tem-com-o-ato-de-dar-grau-27781fdfe0c1
+               
+               <h5> cada h define o tamanho da fonte na linha</h5>
+      </body>
+<html>  
